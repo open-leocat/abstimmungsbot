@@ -1,6 +1,7 @@
 # abstimmungsbot
 my name is jef
 
+WICHTIG: IN properties url durch "https://mejay.io/c/XXXXX#open-wishes" ersetzen!!! also #open-wishes dranhängen sonst klappt es nicht
 
 verwendung: 💯
 1. Für 1 Sekunde Jar datei starten (in CMD mit `java -jar lib.jar`)
